@@ -1,0 +1,10 @@
+azure-ai-projects>=2.0.0
+azure-identity
+azure-search-documents
+azure-cognitiveservices-vision-computervision
+msrest
+openai
+streamlit
+python-dotenv
+pandas
+pillow
