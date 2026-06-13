@@ -382,18 +382,4 @@ If you suspect food adulteration or have health concerns, **contact NAFDAC immed
 
 ---
 
-## License
-
-This project is licensed under the MIT License — see LICENSE file for details.
-
----
-
-## Support & Contact
-
-- 📧 Email: [your-email@example.com]
-- 🐛 Report Issues: [GitHub Issues](https://github.com/cipherBT/foodsafe-ai/issues)
-- 📞 NAFDAC Hotline: **0800-162-3322**
-
----
-
 **Made with ❤️ for food safety in Nigeria**
